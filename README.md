@@ -9,13 +9,13 @@ The primary aim is to evaluate and compare the performance of various carbon cap
 
 ## Benefits
 
-*1. Actionable Insights:*
+**1. Actionable Insights:**
 Offers a data-driven comparison of carbon capture methods, aiding researchers, policymakers, and industries in decision-making.
 
-*2. Visual Clarity:* 
+**2. Visual Clarity:** 
 Transforms complex datasets into intuitive graphs (e.g., efficiency bar charts, cost trend lines), making findings accessible to diverse audiences.
 
-*3. Environmental Impact:* 
+**3. Environmental Impact:** 
 Supports the advancement of climate solutions by pinpointing technologies with the greatest potential to reduce CO₂ levels effectively.
 
             
