@@ -1,0 +1,847 @@
+Project Name,Technology Type,CO2 Captured (tons/year),Capture Efficiency (%),Energy Use (kWh/ton),Energy Source,Cost per Ton (USD),Capital Cost (USD),Operational Cost (USD/year),Location,Deployment Scale,CO2 Storage Method,Operation Year
+Quest CCS,CCS,1000000,75.2,350,Fossil-based,80,1350000000,50000000,"Alberta, Canada",Large-scale,Geological sequestration,2015.0
+Climeworks Orca,DAC,4000,90.0,2000,Renewable,600,15000000,5000000,Iceland,Pilot-scale,Geological sequestration,2021.0
+3D DMX ArcelorMittal and IFPEN Dunkirk (full-scale),Capture,,,,,,,,France,Unknown,,2025.0
+3D DMX ArcelorMittal and IFPEN Dunkirk 'REUZE',CCU,,,,,,,,France,Unknown,,2025.0
+7 Blue Ammonia Facility,Full Chain,,,,,,,,Qatar,Unknown,,2026.0
+8Rivers H2 (8RH2) (WY),Capture,,,,,,,,United States,Unknown,,
+Abadi CCS/CCUS,Full chain,,,,,,,,Indonesia,Unknown,,2027.0
+Ackerman Combined Cycle Plant (MS),Capture,,,,,,,,United States,Unknown,,
+Acorn CCS phase 1-Capture at St Fergus,Capture,,,,,,,,United Kingdom,Unknown,,2028.0
+Acorn CCS phase 1-T&S,T&S,,,,,,,,United Kingdom,Unknown,,2028.0
+Acorn CCS phase 2,T&S,,,,,,,,United Kingdom,Unknown,,
+Acorn H2,Capture,,,,,,,,United Kingdom,Unknown,,2028.0
+Acorn Isle of Grain to Peterhead shipping,Transport,,,,,,,,United Kingdom,Unknown,,
+Adams Fork Energy clean ammonia project (WV),Capture,,,,,,,,United States,Unknown,,
+Adbri Project,Capture,,,,,,,,Australia,Unknown,,
+ADM Cedar rapids bioethanol (IA),Capture,,,,,,,,United States,Unknown,,
+ADM Clinton bioethanol (IA),Capture,,,,,,,,United States,Unknown,,
+ADM Decatur Campus CO2 Storage Site Expansion (IL),T&S,,,,,,,,United States,Unknown,,2028.0
+ADM Maroa/Forsyth CO2 Storage Site Development (IL),Storage,,,,,,,,United States,Unknown,,2028.0
+ADNOC CO2 storage hub (Phase 2 of fertiglobe pilot),Storage,,,,,,,,United Arab Emirates,Unknown,,2030.0
+Advanced CO2 Capture from Hydrogen Production Unit at Phillips 66 Rodeo Refinery (CA),Capture,,,,,,,,United States,Unknown,,
+AEB Amsterdam,CCU,,,,,,,,Netherlands,Unknown,,2028.0
+Aemetis CCS (CA),Storage,,,,,,,,United States,Unknown,,2024.0
+Aemetis CCS Keyes facility (CA),Capture,,,,,,,,United States,Unknown,,2024.0
+Aemetis CCS Riverbank facility (CA),Capture,,,,,,,,United States,Unknown,,2024.0
+Air Liquide hydrogen facility Rotterdam,Capture,,,,,,,,Netherlands,Unknown,,2026.0
+Air Liquide Shanghai Chemical Industry Park (SCIP) decarbonisation (Shanghai),Capture,,,,,,,,People's Republic of China,Unknown,,2028.0
+Air Products for Exxonmobil Botlek Rotterdam refinery,Capture,,,,,,,,Netherlands,Unknown,,2026.0
+AirCapture DACU at Nutrien Kennewick Fertilizer (WA),CCU,,,,,,,,United States,Unknown,,
+AirCapture Nuclear DAC at JM Farley Nuclear (AL),Capture,,,,,,,,United States,Unknown,,
+Airhive Alpha Lab pilot,CCU,,,,,,,,Canada,Unknown,,2024.0
+Aittaluoto power (Pori),CCU,,,,,,,,Finland,Unknown,,2027.0
+Aker CC Biomass CHP (unknown facility),Capture,,,,,,,,Germany,Unknown,,
+Aker CC mineral production (unknown facilities),Capture,,,,,,,,United States,Unknown,,
+Aker CC power plant Europe (unknown facilities),Capture,,,,,,,,Unknown,Unknown,,
+Aker CC refinery (unknown facility),Capture,,,,,,,,United States,Unknown,,
+Aker CC Swedish energy company (unknown),Capture,,,,,,,,Sweden,Unknown,,
+Aker CC waste to energy Northern Europe (unknown facility),Capture,,,,,,,,Unknown,Unknown,,
+Aker CC WtE e-fuels,CCU,,,,,,,,Finland,Unknown,,
+Alaska Railbelt CCS Project (AK),Storage,,,,,,,,United States,Unknown,,
+Alberta Carbon Grid (ALB) phase 1 (Industrial heartland),T&S,,,,,,,,Canada,Unknown,,2027.0
+Alberta Carbon Grid (ALB) phase 2,T&S,,,,,,,,Canada,Unknown,,
+Alberta Carbon Trunk Line (ACTL) - Edmonton Connector Phase 2,Transport,,,,,,,,Canada,Unknown,,2024.0
+Alberta Carbon Trunk Line (ACTL) (ALB),Transport,,,,,,,,Canada,Unknown,,2020.0
+Altalto,Capture,,,,,,,,United Kingdom,Unknown,,
+Altera Stella Maris CCS Project Phase 2,T&S,,,,,,,,Norway,Unknown,,
+Aluminium Bahrain MHI capture,Capture,,,,,,,,Bahrain,Unknown,,
+Aluminium Dunkerque feasibility study,Capture,,,,,,,,France,Unknown,,
+Amager Bakke/Amager Resource Centre (ARC),Capture,,,,,,,,Denmark,Unknown,,2025.0
+ANRAV-CCUS (Devnya plant),Full chain,,,,,,,,Bulgaria,Unknown,,2028.0
+Antwerp@C CO2 Export Hub phase 1,Transport,,,,,,,,Belgium,Unknown,,2027.0
+Antwerp@C CO2 Export Hub phase 2,Transport,,,,,,,,Belgium,Unknown,,2030.0
+"Appalachian basin storage MoU (OH, PA, WV)",Storage,,,,,,,,United States,Unknown,,
+Aramis CCS storage phase 1,Storage,,,,,,,,Netherlands,Unknown,,2029.0
+Aramis CCS storage phase 2,Storage,,,,,,,,Netherlands,Unknown,,2030.0
+Aramis CCS transport phase 1,Transport,,,,,,,,Netherlands,Unknown,,2029.0
+Arcelor LanzaTech Carbalyst (Steelanol) Ghent,CCU,,,,,,,,Belgium,Unknown,,2022.0
+Arcelor Mittal Air Liquide Low-carbon steel (phase 2?),Capture,,,,,,,,France,Unknown,,
+ARGO waste-to-energy plant,Capture,,,,,,,,Denmark,Unknown,,2030.0
+Aries (LA),Storage,,,,,,,,United States,Unknown,,2026.0
+Arkalon CO2 Compression Facility (KS),Full chain,,,,,,,,United States,Unknown,,2009.0
+Arthit offshore gas field CCS,Full chain,,,,,,,,Thailand,Unknown,,2027.0
+Arun CCS,Storage,,,,,,,,Indonesia,Unknown,,2029.0
+Ascension Clean Energy (ACE) complex (LA),Capture,,,,,,,,United States,Unknown,,2027.0
+Ash Grove Cement Foreman Plant (AR),Full chain,,,,,,,,United States,Unknown,,
+Asnæs Power Station,Capture,,,,,,,,Denmark,Unknown,,2026.0
+Athabasca Banks Carbon Hub (ALB),Storage,,,,,,,,Canada,Unknown,,2027.0
+Athabasca Leismer project (ALB),Full chain,,,,,,,,Canada,Unknown,,2025.0
+Atlantic Coast CO2 Emissions Storage Sink (ACCESS) (FL),Storage,,,,,,,,United States,Unknown,,
+Atlas Carbon Sequestration Hub Phase 1 (Shell's Polaris Carbon Capture project Shell hub) (ALB),Full chain,,,,,,,,Canada,Unknown,,2025.0
+Atlas Carbon Sequestration Hub Phase 2 (ALB),T&S,,,,,,,,Canada,Unknown,,2025.0
+Augusta C2 ,Transport,,,,,,,,Italy-Greece,Unknown,,2029.0
+Aukra Hydrogen Hub,Full chain,,,,,,,,Norway,Unknown,,2030.0
+Avedøre Power Station CCS,Capture,,,,,,,,Denmark,Unknown,,2026.0
+Avedøre Power Station CCU (Green Fuels for Denmark),CCU,,,,,,,,Denmark,Unknown,,2026.0
+Babcock & Wilcox’s (LA),Capture,,,,,,,,United States,Unknown,,2026.0
+Bacton Thames Net Zero,T&S,,,,,,,,United Kingdom,Unknown,,2030.0
+Balikpapan Refinery,Full chain,,,,,,,,Indonesia,Unknown,,2030.0
+Banggai ammonia plant Central Sulawesi,Full chain,,,,,,,,Indonesia,Unknown,,
+Baotou Steel (Inner Mongolia) phase 1,Full Chain,,,,,,,,People's Republic of China,Unknown,,2026.0
+Baotou Steel (Inner Mongolia) phase 2,Full Chain,,,,,,,,People's Republic of China,Unknown,,2027.0
+Bapco MOL CCUS value chain,T&S,,,,,,,,Bahrain,Unknown,,
+Barents Blue ammonia project Train 1,Capture,,,,,,,,Norway,Unknown,,2028.0
+Barents Blue ammonia project Train 2,Capture,,,,,,,,Norway,Unknown,,
+Barents Blue ammonia project Train 3,Capture,,,,,,,,Norway,Unknown,,
+Barossa and Darwin liquefied natural gas (DLNG) CCUS,Capture,,,,,,,,Australia,Unknown,,2025.0
+Battle River Carbon Hub (ALB),Storage,,,,,,,,Canada,Unknown,,2027.0
+Bayou Bend CCS offshore (TX),Storage,,,,,,,,United States,Unknown,,
+Bayu-Undan field storage hub Timor-Leste phase 1,T&S,,,,,,,,Australia,Unknown,,2028.0
+Bayu-Undan field storage hub Timor-Leste phase 2,T&S,,,,,,,,Australia,Unknown,,
+Bell Bay Powerfuels project (TAS),CCU,,,,,,,,Australia,Unknown,,2027.0
+Beremend cement factory,Capture,,,,,,,,Hungary,Unknown,,2032.0
+Berrima cement plant (NSW),CCU,,,,,,,,Australia,Unknown,,
+Big spring refinery (TX) pilot,Capture,,,,,,,,United States,Unknown,,2028.0
+BIGST gas fiels Cluster Heads of Agreement,Full chain,,,,,,,,Malaysia,Unknown,,
+BIOFOS Carbon Capture Project ,Capture,,,,,,,,Denmark,Unknown,,2030.0
+BIR Waste-to-Energy Bergen,Capture,,,,,,,,Norway,Unknown,,
+Blue Bison ATR advanced CCUS system (WY),Capture,,,,,,,,United States,Unknown,,
+"BlueBonnet Sequestration Hub (Chambers, Liberty, and Jefferson County) (TX)",Storage,,,,,,,,United States,Unknown,,2026.0
+Bonanza BioEnergy CCUS (KS),Full chain,,,,,,,,United States,Unknown,,2012.0
+Bonaparte CCS Assessment G7-AP,Storage,,,,,,,,Australia,Unknown,,2028.0
+Borealis Antwerp CCS,Capture,,,,,,,,Belgium,Unknown,,2030.0
+Boreong blue hydrogen,Full chain,,,,,,,,South Korea,Unknown,,2028.0
+Borregaard / SAE (Borg CO2) (2 facilities),Capture,,,,,,,,Norway,Unknown,,2035.0
+Boundary Dam CCS (SASK),Capture,,,,,,,,Canada,Unknown,,2014.0
+Bow River Hub (ALB),Storage,,,,,,,,Canada,Unknown,,
+BP H2Teesside Phase 1,Capture,,,,,,,,United Kingdom,Unknown,,2027.0
+BP H2Teesside Phase 2,Capture,,,,,,,,United Kingdom,Unknown,,2030.0
+Brazeau Carbon Sequestration Hub (ALB),Storage,,,,,,,,Canada,Unknown,,
+Bridgeport Energy Moonie CCUS Project,T&S,,,,,,,,Australia,Unknown,,2024.0
+Broadwing Clean Energy Complex (IL),Capture,,,,,,,,United States,Unknown,,2028.0
+Broceni cement plant,Capture,,,,,,,,Latvia,Unknown,,2030.0
+Burns Harbour (IN),Capture,,,,,,,,United States,Unknown,,
+Bushmills Ethanol Atwater (MN),Capture,,,,,,,,United States,Unknown,,2024.0
+Buxton Lime Net Zero,Capture,,,,,,,,United Kingdom,Unknown,,
+Buzzi Unicem Augusta cement plant,Capture,,,,,,,,Italy,Unknown,,
+C Zero phase 1,Transport,,,,,,,,Germany,Unknown,,
+C Zero phase 2,Transport,,,,,,,,Germany,Unknown,,
+C Zero phase 3,Transport,,,,,,,,Germany,Unknown,,
+CalCapture (Elk Hills) (CA) ,Capture,,,,,,,,United States,Unknown,,2026.0
+CalCC Lhoist Air Liquide Lime plant Rety,Capture,,,,,,,,France,Unknown,,2028.0
+Caledonia Clean Energy (previously Captain Clean Energy),Full chain,,,,,,,,United Kingdom,Unknown,,2028.0
+Callisto Mediterranean CO2 Network phase 1,Transport,,,,,,,,France-Italy,Unknown,,2029.0
+Callisto Mediterranean CO2 Network phase 2,Transport,,,,,,,,France-Italy,Unknown,,2040.0
+Calpine Baytown Energy Center (TX),Capture,,,,,,,,United States,Unknown,,2028.0
+Calpine Deer Park Energy Center (TX),Capture,,,,,,,,United States,Unknown,,
+Calpine Delta Energy Center (CA),Capture,,,,,,,,United States,Unknown,,
+Calpine Hermiston Power/HERO Basalt CarbonSafe (OR),Full chain,,,,,,,,United States,Unknown,,
+Cameron Parish CO2 hub (LA),Storage,,,,,,,,United States,Unknown,,2027.0
+CANstore (CA),Storage,,,,,,,,United States,Unknown,,
+"Capsol feasibility studies (2 plants, unknown)",Capture,,,,,,,,Unknown,Unknown,,
+Carbon America Bridgeport Ethanol (NE),Full chain,,,,,,,,United States,Unknown,,
+Carbon America Sterling ethanol (CO),Full chain,,,,,,,,United States,Unknown,,2028.0
+Carbon America Yuma ethanol (CO),Full chain,,,,,,,,United States,Unknown,,2028.0
+Carbon Capture at Corn-processing complex (NE),Capture,,,,,,,,United States,Unknown,,
+Carbon Capture on Air Liquide US Gulf Coast Steam Methane Reformer Using the CryocapTM FG Process (TX),Capture,,,,,,,,United States,Unknown,,
+Carbon Capture Retrofit at Sherman Generating Station (TX),Capture,,,,,,,,United States,Unknown,,
+Carbon Clean CEMEX Rudersdorf plant phase 1,CCU,,,,,,,,Germany,Unknown,,2026.0
+Carbon Clean CEMEX Rudersdorf plant phase 2,CCU,,,,,,,,Germany,Unknown,,
+Carbon reduced Ammonia plant St Rose (LA),Full chain,,,,,,,,United States,Unknown,,2027.0
+Carbon Storage Complex Southeastern Michigan (MI),Storage,,,,,,,,United States,Unknown,,
+Carbon TerraVault 1: Lone Cypress Hydrogen project (CA),Capture,,,,,,,,United States,Unknown,,2025.0
+Carbon TerraVault 2 (CA),Storage,,,,,,,,United States,Unknown,,
+Carbon TerraVault 3 (CA),Storage,,,,,,,,United States,Unknown,,
+Carbon TerraVault 4 (CA),Storage,,,,,,,,United States,Unknown,,
+Carbon TerraVault 5 (CA),Storage,,,,,,,,United States,Unknown,,
+Carbon TerraVault1: InEnTec (CA),Capture,,,,,,,,United States,Unknown,,
+Carbon TerraVault1: Verde (CA),Capture,,,,,,,,United States,Unknown,,
+Carbon2Business LafargeHolcim Laegerdorf (Westkuste100/Hyscale100),CCU,,,,,,,,Germany,Unknown,,2027.0
+Carbon2ProductAustria (C2PAT) - Lafarge Mannersdorf,CCU,,,,,,,,Austria,Unknown,,2030.0
+CarbonCapture DACU Carbon Cure at Gary Works (IN),CCU,,,,,,,,United States,Unknown,,
+CarbonFrontier (CA),Full Chain,,,,,,,,United States,Unknown,,
+CarbonNet,T&S,,,,,,,,Australia,Unknown,,2030.0
+CarbonSAFE Eos (CO),Storage,,,,,,,,United States,Unknown,,
+CarbonSAFE Illinois Storage Corridor (IL),Storage,,,,,,,,United States,Unknown,,2025.0
+Cauldron cement plant,Capture,,,,,,,,United Kingdom,Unknown,,2030.0
+"CCS Baltic Consortium, Klapeida terminal",Transport,,,,,,,,Latvia-Lithuania,Unknown,,2031.0
+CCS Sakakemang,Full chain,,,,,,,,Indonesia,Unknown,,2028.0
+CCUS at Red Hills natural gas processing complex (NM) EOR Phase 2,Full chain,,,,,,,,United States,Unknown,,2024.0
+CCUS at Red Hills natural gas processing complex (NM) EOR Phase 3,Full chain,,,,,,,,United States,Unknown,,2024.0
+"CCUS hub at Strathcona Resources Cold Lake Lindbergh, Orion, and Tucker SAGD facilities (x 3 projects) (ALB)",Capture,,,,,,,,Canada,Unknown,,
+CEIC-CNPC CCUS-EOR demonstration (Ningxia) Phase 1,Full chain,,,,,,,,People's Republic of China,Unknown,,2024.0
+CEIC-CNPC CCUS-EOR demonstration (Ningxia) Phase 2,Full chain,,,,,,,,People's Republic of China,Unknown,,2025.0
+CEIC-CNPC CCUS-EOR demonstration (Ningxia) Phase 3,Full chain,,,,,,,,People's Republic of China,Unknown,,2027.0
+CEIC-CNPC CCUS-EOR demonstration (Ningxia) Phase 3 (dedicated storage) ,Full chain,,,,,,,,People's Republic of China,Unknown,,2027.0
+Celsio CCS project terminal,Transport,,,,,,,,Norway,Unknown,,2025.0
+Cementa Slite plant,Capture,,,,,,,,Sweden,Unknown,,2029.0
+CEMEX Balcones Cement plant (TX),Capture,,,,,,,,United States,Unknown,,
+Central Alberta Hub (ALB),Storage,,,,,,,,Canada,Unknown,,2027.0
+Central Interior Geological CCS Assessment (BC),Storage,,,,,,,,Canada,Unknown,,
+Central Louisiana Regional Carbon Storage (CENLA) Hub (Wilcox) (LA) phase 1,T&S,,,,,,,,United States,Unknown,,2024.0
+Central Louisiana Regional Carbon Storage (CENLA) Hub (Wilcox) (LA) phase 2,T&S,,,,,,,,United States,Unknown,,2027.0
+Central Louisiana Regional Carbon Storage (CENLA) Hub (Wilcox) (LA) phase 3,T&S,,,,,,,,United States,Unknown,,2029.0
+Central Sumatera Basin CCUS hub,Storage,,,,,,,,Indonesia,Unknown,,2030.0
+Centrica Equinor hydrogen hub Easington collaboration,Full chain,,,,,,,,United Kingdom,Unknown,,
+Century plant (TX),Full chain,,,,,,,,United States,Unknown,,2010.0
+Cerilon gas-to-liquids complex (ND),Full chain,,,,,,,,United States,Unknown,,
+CF Fertilisers Billingham Ammonia CCS,Capture,,,,,,,,United Kingdom,Unknown,,
+CF Industries and Mitsui Blue ammonia complex (LA),Full chain,,,,,,,,United States,Unknown,,2027.0
+CF Industries blue ammonia Donaldsonville (LA),Capture,,,,,,,,United States,Unknown,,2025.0
+CF Industries blue ammonia Yazoo (LA),Capture,,,,,,,,United States,Unknown,,
+Changling Gas plant /Jilin Oil Field CO2-EOR Full-scale (Jilin),Full chain,,,,,,,,People's Republic of China,Unknown,,2018.0
+Chevron Mitsui CO2 shipping SGP-AUS,Transport,,,,,,,,Singapore,Unknown,,
+China Energy Guohua Jinjie Power (Shaanxi),Full chain,,,,,,,,People's Republic of China,Unknown,,2021.0
+China Energy Taizhou power (Jiangsu),Full chain,,,,,,,,People's Republic of China,Unknown,,2023.0
+CinfraCap (Carbon Infrastructure Capture) - Port of Gothenburg,Transport,,,,,,,,Sweden,Unknown,,
+City of Estevan Power Plant,Capture,,,,,,,,Canada,Unknown,,
+Cliff Head CCS Project,T&S,,,,,,,,Australia,Unknown,,2026.0
+Climeworks DAC at Brawley Geothermal (CA),Full chain,,,,,,,,United States,Unknown,,
+Climeworks Mammoth Project,Full chain,,,,,,,,Iceland,Unknown,,2024.0
+Climeworks Norsk e fuel phase 1,CCU,,,,,,,,Norway,Unknown,,2025.0
+Climeworks Norsk e fuel phase 2,CCU,,,,,,,,Norway,Unknown,,2026.0
+Climeworks Norsk e fuel phase 3,CCU,,,,,,,,Norway,Unknown,,2029.0
+Climeworks Orca,Full chain,,,,,,,,Iceland,Unknown,,2021.0
+CNOOC Enping offshore CCS (Hong Kong),Full chain,,,,,,,,People's Republic of China,Unknown,,2023.0
+CNPC China Northwest hub phase 1 (Xinjiang),T&S,,,,,,,,People's Republic of China,Unknown,,2025.0
+CNPC China Northwest hub phase 2 (Xinjiang),T&S,,,,,,,,People's Republic of China,Unknown,,2030.0
+CNPC China Northwest hub refinery hydrogen (Xinjiang) ,Capture,,,,,,,,People's Republic of China,Unknown,,2025.0
+CO2 capture at Coal Creek (ND),Capture,,,,,,,,United States,Unknown,,
+CO2 capture at Duke Energy's East Bend Station (KY),Capture,,,,,,,,United States,Unknown,,
+CO2 TO METHANOL Finnfjord Ferrosilicon,CCU,,,,,,,,Norway,Unknown,,
+"CO2 TransPorts phase 2 (cross-border pipeline, phase 1 is Portos and Antwerp?)",Transport,,,,,,,,Netherlands,Unknown,,
+"CO2 TransPorts phase 2 (cross-border pipeline, phase 1 is Portos and Antwerp?)",Transport,,,,,,,,Netherlands,Unknown,,
+CO2MENT LafargeHolcim Florence (CO),Full chain,,,,,,,,United States,Unknown,,2025.0
+CO2NEXT terminal phase 1,Transport,,,,,,,,Germany,Unknown,,
+CO2NEXT terminal phase 2,Transport,,,,,,,,Germany,Unknown,,
+"CO2NNECTION Central Appalachian Basin hub (OH, PA, WV)",Transport,,,,,,,,United States,Unknown,,
+CO2nnectNow HES Wilhelmshaven Tank Terminal phase 1,Transport,,,,,,,,Germany,Unknown,,2028.0
+CO2NTESSA,Capture,,,,,,,,Croatia,Unknown,,2029.0
+Coal creek capture: site characterisation and permitting (ND),Storage,,,,,,,,United States,Unknown,,
+Coastal Bend Carbon Management Project (TX),Storage,,,,,,,,United States,Unknown,,
+Coastal Bend Offshore CO2 Storage (TX),Storage,,,,,,,,United States,Unknown,,
+CO-Creator Pilot Startup program DACCS,Capture,,,,,,,,Iceland,Unknown,,
+Coda terminal Phase 1,T&S,,,,,,,,Iceland,Unknown,,2026.0
+Coda terminal Phase 2,T&S,,,,,,,,Iceland,Unknown,,2028.0
+Coda terminal phase 3,T&S,,,,,,,,Iceland,Unknown,,2031.0
+Coffeyville fertiliser Plant (KS),Full chain,,,,,,,,United States,Unknown,,2013.0
+Colleferro plant,Capture,,,,,,,,Italy,Unknown,,
+Combined Carbon Capture Solution on Air Liquide Northern California Steam Methane Reformer (CA),Capture,,,,,,,,United States,Unknown,,
+Commonwealth LNG CCS (LA),Capture,,,,,,,,United States,Unknown,,2027.0
+Competitive Power Ventures CCGT (WV),Capture,,,,,,,,United States,Unknown,,
+Connah's Quay,Capture,,,,,,,,United Kingdom,Unknown,,2030.0
+Co-op Belle Plaine Ethanol Complex (SK),Capture,,,,,,,,Canada,Unknown,,2024.0
+Co-op Renewable Diesel Complex (SK),Capture,,,,,,,,Canada,Unknown,,2027.0
+Core Energy CO2-EOR South Chester plant (MI),Full chain,,,,,,,,United States,Unknown,,2003.0
+Cormorant Clean Energy project (TX),Capture,,,,,,,,United States,Unknown,,2027.0
+Corn LP Goldfield biorefinery (IA),Capture,,,,,,,,United States,Unknown,,2025.0
+Corporation Energy Blue Ammonia/hydrogen Baidaratskaya Bay,Full chain,,,,,,,,Russia,Unknown,,2025.0
+Corporation Energy Blue Ammonia/hydrogen Seyakha,Full chain,,,,,,,,Russia,Unknown,,2026.0
+Corpus Christi carbon storage hub (TX),Storage,,,,,,,,United States,Unknown,,
+Corpus Christi CO2 pipeline (TX),Transport,,,,,,,,United States,Unknown,,2028.0
+Corvus (WY),Storage,,,,,,,,United States,Unknown,,2026.0
+CORY EfW plant Belvedere,Full chain,,,,,,,,United Kingdom,Unknown,,2030.0
+Coyote Clean Power Project (CO),Full chain,,,,,,,,United States,Unknown,,2025.0
+CPNC coal power Baijiantan Karamay (Xinjiang),Full chain,,,,,,,,People's Republic of China,Unknown,,2027.0
+Crawford Nickel,CCU,,,,,,,,Canada,Unknown,,
+CRP Haifeng Project (Guangdong),Capture,,,,,,,,People's Republic of China,Unknown,,2030.0
+Cstore 1,T&S,,,,,,,,Australia,Unknown,,
+CTSCo Project,Full chain,,,,,,,,Australia,Unknown,,2026.0
+Cygnus (WY),Storage,,,,,,,,United States,Unknown,,2027.0
+Cypress Carbon Capture Project (LA),Capture,,,,,,,,United States,Unknown,,
+Cypress DAC Hub (LA),Capture,,,,,,,,United States,Unknown,,2030.0
+Dakota Ethanol Wentworth biorefinery (SD),Capture,,,,,,,,United States,Unknown,,2025.0
+Dakota H2 Hub (ND),Full chain,,,,,,,,United States,Unknown,,2027.0
+Dalstur Energy Coal India coal hydrogen,Capture,,,,,,,,India,Unknown,,
+Damhead Creek CCGT power station,Capture,,,,,,,,United Kingdom,Unknown,,
+D'Artagnan Dunkirk CO2 Hub Phase 1,Transport,,,,,,,,France,Unknown,,2027.0
+D'Artagnan Dunkirk CO2 Hub Phase 2,Transport,,,,,,,,France,Unknown,,2031.0
+D'Artagnan Dunkirk CO2 Hub Phase 3,Transport,,,,,,,,France,Unknown,,2035.0
+Daya Bay CCS Hub (Guangdong),T&S,,,,,,,,People's Republic of China,Unknown,,
+Delaware Basin project (TX),Storage,,,,,,,,United States,Unknown,,
+Delta Rhyne Corridor ,Transport,,,,,,,,Netherlands-Germany,Unknown,,2027.0
+Denbury / Mitsubishi Gulf Coast ammonia project (TBD),T&S,,,,,,,,United States,Unknown,,
+Diamond Vault (LA),Storage,,,,,,,,United States,Unknown,,
+Donghae CCS Project (capture sources under evaluation),T&S,,,,,,,,South Korea,Unknown,,2025.0
+Dorado (TX),Storage,,,,,,,,United States,Unknown,,2026.0
+Dos Bocas refinery,Capture,,,,,,,,Mexico,Unknown,,
+Dow Fort Saskatchewan Path2Zero (ALB),Capture,,,,,,,,Canada,Unknown,,2029.0
+Draco (LA),Storage,,,,,,,,United States,Unknown,,2026.0
+Drax BECCS Project (Phase 1),Capture,,,,,,,,United Kingdom,Unknown,,2027.0
+Drax BECCS Project (Phase 2),Capture,,,,,,,,United Kingdom,Unknown,,2030.0
+Drax US BECCS plant 1,Capture,,,,,,,,United States,Unknown,,2030.0
+Drax US BECCS plant 2,Capture,,,,,,,,United States,Unknown,,2030.0
+Dry Fork Integrated Commercial CCS/Wyoming CarbonSafe (WY),Full chain,,,,,,,,United States,Unknown,,2025.0
+Duke Energy Edwardsport Integrated Gasification Combined Cycle plant (IN),Capture,,,,,,,,United States,Unknown,,
+e-Alto,CCU,,,,,,,,United Kingdom,Unknown,,
+East Calgary Region Carbon Sequestration Hub (ALB),Storage,,,,,,,,Canada,Unknown,,
+East Kalimantan CCUS hub,Storage,,,,,,,,Indonesia,Unknown,,2030.0
+East Niigata area CCS - Hokuetsu pulp plant,Capture,,,,,,,,Japan,Unknown,,2030.0
+East Niigata area CCS - Mitsubshi gas chemical,Capture,,,,,,,,Japan,Unknown,,2030.0
+East Niigata area CCS - Tohoku Electric Power,Capture,,,,,,,,Japan,Unknown,,2030.0
+East Niigata area CCS (capture sources under evaluation),T&S,,,,,,,,Japan,Unknown,,2030.0
+Eastern Louisiana Clean Hydrogen Complex (LA) ,Full chain,,,,,,,,United States,Unknown,,2026.0
+Eastern Wyoming Sequestration Hub (WY),Storage,,,,,,,,United States,Unknown,,2024.0
+ECO2CEE (Poland EU CCS Interconnector) phase 1,Transport,,,,,,,,"Poland, Latvia, Lithuania",Unknown,,2027.0
+ECO2CEE (previously Poland EU CCS Interconnector) phase 2,Transport,,,,,,,,"Poland, Latvia, Lithuania",Unknown,,2031.0
+ECO2CEE (previously Poland EU CCS Interconnector) phase 3,Transport,,,,,,,,"Poland, Latvia, Lithuania",Unknown,,2033.0
+ECO2Normandy phase 1,Transport,,,,,,,,France,Unknown,,2028.0
+ECO2Normandy phase 2,Transport,,,,,,,,France,Unknown,,2031.0
+ECO2Normandy phase 3,Transport,,,,,,,,France,Unknown,,2036.0
+ECO2S: Early CO2 Storage Complex in Kemper County (MS),T&S,,,,,,,,United States,Unknown,,
+ECOPLANTA (Tarragona),CCU,,,,,,,,Spain,Unknown,,2027.0
+Edmonton Blue Hydrogen plant (ALB),Capture,,,,,,,,Canada,Unknown,,
+Edmonton Varme facility (ALB),Capture,,,,,,,,Canada,Unknown,,2027.0
+El Camino (LA),Storage,,,,,,,,United States,Unknown,,
+Elmworth Gas Plant,Capture,,,,,,,,Canada,Unknown,,
+Emerge CCS,Capture,,,,,,,,United Kingdom,Unknown,,
+Emirates Steel Industries (Abu Dhabi CCS Phase 1),Full chain,,,,,,,,United Arab Emirates,Unknown,,2016.0
+EM-Rhone,CCU,,,,,,,,France,Unknown,,2028.0
+Enbridge Ingleside Energy Center Low carbon ammonia (TX),Capture,,,,,,,,United States,Unknown,,2028.0
+ENEOS MOL JX CO2 shipping,T&S,,,,,,,,Japan-Australia,Unknown,,2030.0
+Energean CO2 storage and hydrogen plant,Capture,,,,,,,,Greece,Unknown,,2025.0
+Energy Recovery Facility Edmonton EcoPark,Capture,,,,,,,,United Kingdom,Unknown,,
+Enhance Clive Sequestration Facility (ACTL) (ALB),Storage,,,,,,,,Canada,Unknown,,2020.0
+ENI Ravenna power plant,Capture,,,,,,,,Italy,Unknown,,2027.0
+ENI Venice bio-refinery Porto Marghera,Capture,,,,,,,,Italy,Unknown,,2027.0
+Enid fertiliser (OK),Full chain,,,,,,,,United States,Unknown,,1982.0
+EnLink midstream network (LA),Transport,,,,,,,,United States,Unknown,,2025.0
+Enquest CCS Project ,Storage,,,,,,,,United Kingdom,Unknown,,
+Equinor Mongstad refinery,Capture,,,,,,,,Norway,Unknown,,
+Equinor Smeaheia storage phase 1 (start up phase),T&S,,,,,,,,Norway,Unknown,,2028.0
+Equinor Smeaheia storage phase 2,T&S,,,,,,,,Norway,Unknown,,2035.0
+Eramet Sauda,Capture,,,,,,,,Norway,Unknown,,2030.0
+Ervia Cork CCS -  Aghada CCGT,Capture,,,,,,,,Ireland,Unknown,,2028.0
+Ervia Cork CCS - Irving refinery,Capture,,,,,,,,Ireland,Unknown,,2028.0
+Ervia Cork CCS - Whitegate CCGT,Capture,,,,,,,,Ireland,Unknown,,2028.0
+EU2NSEA,Transport,,,,,,,,Norway,Unknown,,2029.0
+Everest,Capture,,,,,,,,Germany,Unknown,,2029.0
+Exshaw Cement Carbon Capture (ALB),Capture,,,,,,,,Canada,Unknown,,2030.0
+Exxonmobil Antwerp Refinery CCS,Capture,,,,,,,,Belgium,Unknown,,2030.0
+ExxonMobil Baytown petrochemical site (TX),Capture,,,,,,,,United States,Unknown,,2028.0
+ExxonMobil Fawley refinery,Capture,,,,,,,,United Kingdom,Unknown,,2030.0
+ExxonMobil Vermilion parish storage: Pecan island (LA),Storage,,,,,,,,United States,Unknown,,2026.0
+Ferrybridge EfW,Capture,,,,,,,,United Kingdom,Unknown,,2030.0
+Fidelis Project Cyclus Baton Rouge (LA),Full chain,,,,,,,,United States,Unknown,,2032.0
+Fife ethylene plant,Capture,,,,,,,,United Kingdom,Unknown,,
+Filbornaverket plant Helsingborg,Capture,,,,,,,,Sweden,Unknown,,2029.0
+Filer City Station plant (MI),Full Chain,,,,,,,,United States,Unknown,,
+FlagshipTHREE Umea Dava plant,CCU,,,,,,,,Sweden,Unknown,,2026.0
+FlagshipTWO Sundsvall Korsta plant,CCU,,,,,,,,Sweden,Unknown,,2026.0
+Fluxys Tournai-Zeebrugge,Transport,,,,,,,,Belgium,Unknown,,
+Fluxys-Equinor Belgium-Norway Trunk Line ,Transport,,,,,,,,Belgium-Norway,Unknown,,2030.0
+Fortum waste solutions Nyborg,Capture,,,,,,,,Denmark,Unknown,,
+Four corners carbon storage hub (NM),Storage,,,,,,,,United States,Unknown,,
+Four Corners Power Plant Integrated Carbon Capture and Storage (NM),Full chain,,,,,,,,United States,Unknown,,
+Freeport LNG CCS (TX),Full chain,,,,,,,,United States,Unknown,,2024.0
+Frevar KF / Kvitebjorn BIO-EL (Borg CO2) (2 facilities),Capture,,,,,,,,Norway,Unknown,,2035.0
+FS Lucas do Rio Verde ethanol biorefinery complex,Full chain,,,,,,,,Brazil,Unknown,,2030.0
+Future Biogas plants phase 1,Capture,,,,,,,,United Kingdom,Unknown,,2024.0
+Future Biogas plants phase 2,Capture,,,,,,,,United Kingdom,Unknown,,2028.0
+G2 Net-Zero (LA),Capture,,,,,,,,United States,Unknown,,2027.0
+Gärstaverket plant Linkoping,Capture,,,,,,,,Sweden,Unknown,,
+Gas power CCUS MoU,Capture,,,,,,,,Indonesia,Unknown,,
+Gassum storage/Fyrkat network (Norne carbon storage hub),Storage,,,,,,,,Denmark,Unknown,,2026.0
+Gemah field EOR,Storage,,,,,,,,Indonesia,Unknown,,2031.0
+Gemini (formerly Denbury Ascension Parish sequestration) (LA),Storage,,,,,,,,United States,Unknown,,2026.0
+Genesee CCS (ALB),Capture,,,,,,,,Canada,Unknown,,2027.0
+Geothermal CCS Croatia,T&S,,,,,,,,Croatia,Unknown,,2031.0
+Geovault Carnarvon Basin CCS assessment,Storage,,,,,,,,Australia,Unknown,,
+Gerald Gentleman Station Carbon Capture (NE),Capture,,,,,,,,United States,Unknown,,2025.0
+German carbon transport grid,Transport,,,,,,,,Germany,Unknown,,2028.0
+Getica CCS - Turceni power plant,Capture,,,,,,,,Romania,Unknown,,
+GeZero carbon capture project (Geseke),Capture,,,,,,,,Germany,Unknown,,2029.0
+Ghent Carbon Hub,Transport,,,,,,,,Belgium,Unknown,,2027.0
+Gismarvik CO2 hub,Transport,,,,,,,,Norway,Unknown,,2028.0
+Glacial Lakes Energy Aberdeen biorefinery (SD),Capture,,,,,,,,United States,Unknown,,2025.0
+Glacial Lakes Energy Mina biorefinery (SD),Capture,,,,,,,,United States,Unknown,,2025.0
+Glacial Lakes Energy Watertown biorefinery (SD),Capture,,,,,,,,United States,Unknown,,2025.0
+Glacier Gas Plant CCS full capacity (ALB),Full chain,,,,,,,,Canada,Unknown,,2024.0
+Global thermostat headquarters plant (CO),Capture,,,,,,,,United States,Unknown,,2023.0
+Go4ECOPlant Lafarge Polska Kujawy plant,Capture,,,,,,,,Poland,Unknown,,2027.0
+GO4ZERO Oburg cement plant,Capture,,,,,,,,Belgium,Unknown,,2028.0
+Golden Grain Energy Mason City biorefinery (IA),Capture,,,,,,,,United States,Unknown,,2025.0
+Gonfreville Raffinerie,Capture,,,,,,,,France,Unknown,,2030.0
+Goose Lake (LA),Storage,,,,,,,,United States,Unknown,,
+Gorgon CCS,Full chain,,,,,,,,Australia,Unknown,,2019.0
+Grain CCGT power station,Capture,,,,,,,,United Kingdom,Unknown,,
+Grand Ouest CO2 (GOCO₂) transport,Transport,,,,,,,,France,Unknown,,2030.0
+Grande Prairie Net Zero Gateway (ALB),Storage,,,,,,,,Canada,Unknown,,
+Grandpuits biorefinery,CCU,,,,,,,,France,Unknown,,2025.0
+Granite Falls biorefinery (MN),Capture,,,,,,,,United States,Unknown,,2025.0
+Great Carbon Valley DAC,Full chain,,,,,,,,Kenya,Unknown,,
+Great Plains Synfuel Plant (ND) Weyburn-Midale (SK),Full chain,,,,,,,,United States,Unknown,,2000.0
+Great Plains Synfuel Plant to sequestration (ND),Full chain,,,,,,,,United States,Unknown,,
+Green Plains Atkinson biorefinery (NE),Capture,,,,,,,,United States,Unknown,,2025.0
+Green Plains Central City biorefinery (NE),Capture,,,,,,,,United States,Unknown,,2025.0
+Green Plains Fairmont biorefinery (MN),Capture,,,,,,,,United States,Unknown,,2025.0
+Green Plains Otter Tail biorefinery (MN),Capture,,,,,,,,United States,Unknown,,2025.0
+Green Plains Shenandoah biorefinery (MN),Capture,,,,,,,,United States,Unknown,,2025.0
+Green Plains Superior biorefinery (IA),Capture,,,,,,,,United States,Unknown,,2025.0
+Green Plains Wood River biorefinery (NE),Capture,,,,,,,,United States,Unknown,,2025.0
+Green Plains York biorefinery (NE),Capture,,,,,,,,United States,Unknown,,2025.0
+GreenCem,Capture,,,,,,,,Denmark,Unknown,,2030.0
+GreenGen Huaneng IGCC Project Phase III (Tianjin),Full chain,,,,,,,,People's Republic of China,Unknown,,2030.0
+Greenview Region CCS Project (ALB),Storage,,,,,,,,Canada,Unknown,,
+GRTGaz CO2 backbone,Transport,,,,,,,,France,Unknown,,2028.0
+Guanghui Energy CCUS integration project Phase 1 (Xinjiang),Full chain,,,,,,,,People's Republic of China,Unknown,,2023.0
+Gulf Coast Hydrogen Hub HyVelocity (TX),Capture,,,,,,,,United States,Unknown,,
+Gulf Coast Sequestration Hub Lake Charles (LA),Storage,,,,,,,,United States,Unknown,,2030.0
+Gundih CCUS EGR,Full chain,,,,,,,,Indonesia,Unknown,,2030.0
+Gwangyang LNG terminal blue hydrogen,Capture,,,,,,,,South Korea,Unknown,,2029.0
+H21 Leeds City Gate - Teesside hydrogen,Capture,,,,,,,,United Kingdom,Unknown,,2035.0
+H2BE,Capture,,,,,,,,Belgium,Unknown,,2028.0
+H2-gateway,Full chain,,,,,,,,Netherlands,Unknown,,2027.0
+H2GE Rostock,Capture,,,,,,,,Germany,Unknown,,2029.0
+H2NorthEast Phase 1,Capture,,,,,,,,United Kingdom,Unknown,,2028.0
+H2NorthEast Phase 2,Capture,,,,,,,,United Kingdom,Unknown,,2030.0
+H2Perth Woodside,Full chain,,,,,,,,Australia,Unknown,,2025.0
+Habshan-Bab gas plant (Abu Dhabi CCS Phase 2),Full chain,,,,,,,,United Arab Emirates,Unknown,,2026.0
+Hackberry Carbon Sequestration (HCS) project at Cameron LNG (LA),Full chain,,,,,,,,United States,Unknown,,
+Hail and Gasha CO2 Management,Full chain,,,,,,,,United Arab Emirates,Unknown,,2028.0
+Hanson Padeswood Cement Works CCS,Capture,,,,,,,,United Kingdom,Unknown,,2028.0
+Harvest Bend CCS White Castle (LA),Storage,,,,,,,,United States,Unknown,,
+Havnso storage/Trelleborg network (Norne carbon storage hub),Storage,,,,,,,,Denmark,Unknown,,2030.0
+Havstjerne CO2 storage (Altera Stella Maris CCS Project Phase 1),T&S,,,,,,,,Norway,Unknown,,
+Haynesville Shale natural gas (LA),Capture,,,,,,,,United States,Unknown,,2024.0
+Heartland Greenway Storage (HGSS) NVC-1 (IL),Storage,,,,,,,,United States,Unknown,,
+Heartland Greenway Storage: Compass (IL),Storage,,,,,,,,United States,Unknown,,
+Heartland Greenway Storage: Vervain (IL),Storage,,,,,,,,United States,Unknown,,
+Heartland hydrogen hub (ALB),Capture,,,,,,,,Canada,Unknown,,2028.0
+Heidelberg Materials Brevik cement,Capture,,,,,,,,Norway,Unknown,,2025.0
+Heidelberg Materials CBR Antoing Cement Plant (Anthemis),Capture,,,,,,,,Belgium,Unknown,,2029.0
+Heidelberg Materials LEILAC 2,Capture,,,,,,,,Germany,Unknown,,2025.0
+Heidelberg Materials Mitchell plant (IN),Capture,,,,,,,,United States,Unknown,,2030.0
+HeidelbergMaterials Edmonton Cement (ALB),Capture,,,,,,,,Canada,Unknown,,2027.0
+Heron Lake biorefinery (MN),Capture,,,,,,,,United States,Unknown,,2025.0
+HIF Cabo Negro eFuels Facility,CCU,,,,,,,,Chile,Unknown,,
+HIF Paysandú eFuels Facility Alur bioethanol plant,CCU,,,,,,,,Uruguay,Unknown,,2025.0
+HIF Tasmania eFuels Facility (TAS),CCU,,,,,,,,Australia,Unknown,,2028.0
+HIF USA eFuels Matagorda County (TX),CCU,,,,,,,,United States,Unknown,,2027.0
+Highwater Ethanol Lamberton biorefinery (MN),Capture,,,,,,,,United States,Unknown,,2025.0
+Hinton Bioenergy CCS project (ALB),Capture,,,,,,,,Canada,Unknown,,2027.0
+HOFOR Amagerværket,Capture,,,,,,,,Denmark,Unknown,,2030.0
+Homeland Energy Solutions Lawler biorefinery (IA),Capture,,,,,,,,United States,Unknown,,2025.0
+Hoosier #1 (Cardinal ethanol facility) (IN) ,Full chain,,,,,,,,United States,Unknown,,
+Horizon mine tailings (ALB),CCU,,,,,,,,Canada,Unknown,,2017.0
+Hover cement works Hannover phase 1,Capture,,,,,,,,Germany,Unknown,,2024.0
+Hover cement works Hannover phase 2,Capture,,,,,,,,Germany,Unknown,,2028.0
+Huaneng Zhengning coal power plant (Gansu),CCU,,,,,,,,People's Republic of China,Unknown,,2024.0
+Humberside CCS with Shell and Esso,Storage,,,,,,,,United Kingdom,Unknown,,
+Husker Ag Plainview biorefinery (NE),Capture,,,,,,,,United States,Unknown,,2025.0
+H-vision plant 1,Capture,,,,,,,,Netherlands,Unknown,,2030.0
+Hydrogen 2 Magnum (H2M),Capture,,,,,,,,Netherlands,Unknown,,2025.0
+Hydrogen Energy Supply Chain (HESC) Project Full scale (CarbonNET),Capture,,,,,,,,Australia,Unknown,,2030.0
+Hydrogen to Humber (H2H) Saltend phase 1,Capture,,,,,,,,United Kingdom,Unknown,,2028.0
+Hydrogen to Humber (H2H) Saltend phase 2,Capture,,,,,,,,United Kingdom,Unknown,,
+HyNet Hydrogen Production Project (HPP) Plant 1 (Hynet phase 1),Capture,,,,,,,,United Kingdom,Unknown,,2027.0
+HyNet Hydrogen Production Project (HPP) Plant 2 (Hynet phase 2),Capture,,,,,,,,United Kingdom,Unknown,,
+Hynet North West (Liverpool Bay CO2 storage) phase 1,T&S,,,,,,,,United Kingdom,Unknown,,2027.0
+Hynet North West (Liverpool Bay CO2 storage) phase 2,T&S,,,,,,,,United Kingdom,Unknown,,2030.0
+Hynet Northwest phase 3,Capture,,,,,,,,United Kingdom,Unknown,,2030.0
+Hynovera,CCU,,,,,,,,France,Unknown,,2028.0
+Hynovi project (Vicat Montalieu plant),CCU,,,,,,,,France,Unknown,,2026.0
+Hyskies Vattenfall CHP Lanzatech,CCU,,,,,,,,Sweden,Unknown,,2028.0
+Ifestos Carbon Capture (Kamati plant),Capture,,,,,,,,Greece,Unknown,,2030.0
+Illinois Basin Decatur Project (IL),Full chain,,,,,,,,United States,Unknown,,2011.0
+Illinois Basin West CarbonSAFE (IL),Storage,,,,,,,,United States,Unknown,,
+Illinois Clean Fuels Project (IL),Capture,,,,,,,,United States,Unknown,,2026.0
+Illinois Industrial Carbon Capture and Storage (IL),Full chain,,,,,,,,United States,Unknown,,2017.0
+In Salah,Full chain,,,,,,,,Algeria,Unknown,,2004.0
+Ince Bioenergy Carbon Capture and Storage (InBECCS) scaleup,Capture,,,,,,,,United Kingdom,Unknown,,2029.0
+Indian Oil Corporation Koyali refinery,Full chain,,,,,,,,India,Unknown,,2025.0
+Industrial Carbon Capture (ICC) Stanlow,Capture,,,,,,,,United Kingdom,Unknown,,2028.0
+Ineos Antwerp CCS,Capture,,,,,,,,Belgium,Unknown,,2030.0
+INEOS Grangemouth refinery and hydrogen production,Capture,,,,,,,,United Kingdom,Unknown,,2030.0
+Innovative Integration of Carbon Capture for Clean Power (ALB),Capture,,,,,,,,Canada,Unknown,,
+"Integratred clean ammonia production, Port of Corpus Christi (TX) phase 1",Capture,,,,,,,,United States,Unknown,,2030.0
+"Integratred clean ammonia production, Port of Corpus Christi (TX) phase 2",Capture,,,,,,,,United States,Unknown,,
+Itochu/Petronas ammonia project (ALB),Full chain,,,,,,,,Canada,Unknown,,2027.0
+James M  Barry Electric Generating Plant CCUS (AL),Capture,,,,,,,,United States,Unknown,,2030.0
+Javelina Refinery CCS (TX),Capture,,,,,,,,United States,Unknown,,
+Jiling Petrochemical CCUS (Nanjing refinery) (Jiangsu) phase 1,Full chain,,,,,,,,People's Republic of China,Unknown,,2023.0
+Joint study CCS value chain Japan Malaysia phase 1 (M3 CCS Project),T&S,,,,,,,,Japan-Malaysia,Unknown,,2028.0
+Joint study CCS value chain Japan Malaysia phase 2,T&S,,,,,,,,Japan-Malaysia,Unknown,,2030.0
+Joint study CCS value chain Japan Malaysia steel,Capture,,,,,,,,Japan-Malaysia,Unknown,,
+J-Power Sumitomo joint feasibility clean hydrogen Latrobe Valley (VI),Full chain,,,,,,,,Australia,Unknown,,
+JSA Pertamina Chevron East Kalimantan,Storage,,,,,,,,Indonesia,Unknown,,
+Jubail CCS Hub agreement (*capture sources under evaluation),T&S,,,,,,,,Saudi Arabia,Unknown,,2027.0
+K+S Potash CCS,Capture,,,,,,,,Canada,Unknown,,
+K6 Program- Lumbres cement plant,Capture,,,,,,,,France,Unknown,,2028.0
+Kairos@C,Capture,,,,,,,,Belgium,Unknown,,2027.0
+Kalundborg refinery project,Capture,,,,,,,,Denmark,Unknown,,2030.0
+Karamay Dunhua methanol plant (Xinjiang),Full chain,,,,,,,,People's Republic of China,Unknown,,2015.0
+Keadby 3 Carbon Capture Power Station,Capture,,,,,,,,United Kingdom,Unknown,,2028.0
+Kemper county CCUS (MS),Full chain,,,,,,,,United States,Unknown,,2017.0
+Kern River Eastridge cogeneration plant San Joaquin Valley (CA),Capture,,,,,,,,United States,Unknown,,
+KeyState Natural Gas Synthesis (ARCH2) (PA),Full chain,,,,,,,,United States,Unknown,,2026.0
+KOdeCO project,Capture,,,,,,,,Croatia,Unknown,,2028.0
+Kotka power (Kotka),CCU,,,,,,,,Finland,Unknown,,2026.0
+Kredsløb Energipark Lisbjerg,Capture,,,,,,,,Denmark,Unknown,,2030.0
+Kutai Basin CCUS hub,Storage,,,,,,,,Indonesia,Unknown,,2030.0
+Kutina Petrokemija ammonia (ICORD project?),Capture,,,,,,,,Croatia,Unknown,,2027.0
+KVA Linth Waste-to-Energy Niederurnen,Capture,,,,,,,,Swizterland,Unknown,,2025.0
+Kymijärvi power (Lahti),CCU,,,,,,,,Finland,Unknown,,2026.0
+L10 CCS,T&S,,,,,,,,Netherlands,Unknown,,2028.0
+LA CCS (LA),Storage,,,,,,,,United States,Unknown,,
+Labarge Shute Creek Gas Processing Plant 1.2 Mtpa expansion (WY),Full chain,,,,,,,,United States,Unknown,,2025.0
+Labarge Shute Creek Gas Processing Plant 2010 expansion (WY),Full chain,,,,,,,,United States,Unknown,,2010.0
+Labarge Shute Creek Gas Processing Plant original (WY),Full chain,,,,,,,,United States,Unknown,,1986.0
+LafargeHolcim Ste Genevieve plant (MO),Capture,,,,,,,,United States,Unknown,,
+Lake Charles low carbon ammonia (LA),Capture,,,,,,,,United States,Unknown,,
+Lake Charles Methanol (LA),Capture,,,,,,,,United States,Unknown,,2027.0
+Lake Charles Power Station Integrated CO2 Capture Project (LA),Full chain,,,,,,,,United States,Unknown,,
+Lamont Carbon Hub (ALB),Storage,,,,,,,,Canada,Unknown,,2024.0
+Leo (MS),Storage,,,,,,,,United States,Unknown,,2025.0
+LG&E Cane Run NGCC CR7 (KY),Capture,,,,,,,,United States,Unknown,,
+Libra  (LA),Storage,,,,,,,,United States,Unknown,,2027.0
+Lighthouse Green Fuels,Capture,,,,,,,,United Kingdom,Unknown,,2028.0
+Limeco Waste-to-Energy Dietikon,Capture,,,,,,,,Swizterland,Unknown,,
+Lincolnway Energy Nevada biorefinery (IA),Capture,,,,,,,,United States,Unknown,,2024.0
+Linde Clear Lake HyCO Plant (TX),CCU,,,,,,,,United States,Unknown,,2023.0
+Linde hydrogen plant for OCI fertilizer blue ammonia Beaumont (TX),Capture,,,,,,,,United States,Unknown,,2025.0
+Linde-BASF capture SMR plant Covent (LA),Capture,,,,,,,,United States,Unknown,,
+Linden (IN),Storage,,,,,,,,United States,Unknown,,
+LIPOR Maia Energy Recovery Plant PtL facility,CCU,,,,,,,,Portugal,Unknown,,
+Little Sioux Corn Processors Marcus biorefinery (IA),Capture,,,,,,,,United States,Unknown,,2025.0
+Lloydminster Upgrader,Capture,,,,,,,,Canada,Unknown,,
+Lone Star Storage Hub Project (Jasper) (TX),T&S,,,,,,,,United States,Unknown,,2026.0
+Longford gas plant,Capture,,,,,,,,Australia,Unknown,,2025.0
+Longleaf CCS (AL),Storage,,,,,,,,United States,Unknown,,2026.0
+Lorain CCS (OH) ,Storage,,,,,,,,United States,Unknown,,
+Lost Cabin Gas Plant (WY),Full chain,,,,,,,,United States,Unknown,,2013.0
+Louis Dreyfus Grand Junction biorefinery (IA),Capture,,,,,,,,United States,Unknown,,2024.0
+Louis Dreyfus Norfolk biorefinery (IA),Capture,,,,,,,,United States,Unknown,,2024.0
+Louisiana Green Fuels Project  (LA),Full chain,,,,,,,,United States,Unknown,,2027.0
+Lyse Forus Energigjenvinning Stavanger ,Capture,,,,,,,,Norway,Unknown,,2024.0
+Magnolia sequestration hub (Allen Parish) (LA),T&S,,,,,,,,United States,Unknown,,
+Marquis Industrial Complex (IL),Full chain,,,,,,,,United States,Unknown,,
+Maskwa Project (ALB),Storage,,,,,,,,Canada,Unknown,,
+Meadowbrook storage hub (ALB),Storage,,,,,,,,Canada,Unknown,,2024.0
+Medway CCGT power station,Capture,,,,,,,,United Kingdom,Unknown,,
+Medway Hub CCS,T&S,,,,,,,,United Kingdom,Unknown,,2032.0
+MEPAU Mid West CCUS hub,Full chain,,,,,,,,Australia,Unknown,,2028.0
+Merritt Electrofuels Project DAC (BC),CCU,,,,,,,,Canada,Unknown,,2026.0
+Metropolitan Area CCS - Nippon steel plant,Capture,,,,,,,,Japan,Unknown,,2030.0
+Metropolitan Area CCS (capture sources under evaluation),T&S,,,,,,,,Japan,Unknown,,2030.0
+Mid West Clean Energy Project,Capture,,,,,,,,Australia,Unknown,,2025.0
+Midland Basin project: Dusek CCS (TX),Storage,,,,,,,,United States,Unknown,,2025.0
+Midwest AgEnergy Blue Flint ethanol (ND),Full chain,,,,,,,,United States,Unknown,,2023.0
+"Midwest Carbon Express (NE, SD, ND, MI, IA)",T&S,,,,,,,,United States,Unknown,,2025.0
+Mikawa Power Plant BECCS Fukuoka Prefecture,Capture,,,,,,,,Japan,Unknown,,2020.0
+Mineral carbonation international Carbon Plant demonstrator,CCU,,,,,,,,Australia,Unknown,,2024.0
+Minerva (LA),Storage,,,,,,,,United States,Unknown,,
+Minnedosa Ethanol Plant (MB),Capture,,,,,,,,Canada,Unknown,,
+Mission Zero Technologies pilot 2,Capture,,,,,,,,Oman,Unknown,,2024.0
+Mitchell CarbonSAFE (IN),Storage,,,,,,,,United States,Unknown,,
+MOL Szank field CO2 EOR,Full chain,,,,,,,,Hungary,Unknown,,1992.0
+Monkey Island carbon storage project (LA),Storage,,,,,,,,United States,Unknown,,
+Montauk Energy biogas plants (TX),CCU,,,,,,,,United States,Unknown,,
+Montezuma NorCal Carbon Hub (CA),T&S,,,,,,,,United States,Unknown,,
+Moomba Carbon Capture and Storage,Full chain,,,,,,,,Australia,Unknown,,2024.0
+Moomba CCS storage hub (phase 2),T&S,,,,,,,,Australia-Japan,Unknown,,2030.0
+Moomba CCS storage hub (phase 3),T&S,,,,,,,,Australia-Japan,Unknown,,2035.0
+Moomba CCS storage hub (phase 4),T&S,,,,,,,,Australia-Japan,Unknown,,2040.0
+Moraine (GE) Power Generation (ALB),Capture,,,,,,,,Canada,Unknown,,2027.0
+Morecambe Net Zero Cluster,T&S,,,,,,,,United Kingdom,Unknown,,2030.0
+Mote biomass-to-hydrogen plant (CA),Capture,,,,,,,,United States,Unknown,,2025.0
+"Mote biomass-to-hydrogen plant, 2nd facility (CA)",Capture,,,,,,,,United States,Unknown,,
+Motor Oil Hellas (Iris),Capture,,,,,,,,Greece,Unknown,,2029.0
+MoU ADNOC ENEOS Mitsui Ruwais Industrial Area,Capture,,,,,,,,United Arab Emirates,Unknown,,
+Mountaineer Gigasystem (WV) Phase 1,Capture,,,,,,,,United States,Unknown,,2028.0
+Mountaineer Gigasystem (WV) Phase 2,Capture,,,,,,,,United States,Unknown,,
+Mountaineer Gigasystem (WV) Phase 3,Capture,,,,,,,,United States,Unknown,,
+Mountaineer Gigasystem (WV) Phase 4,Capture,,,,,,,,United States,Unknown,,
+Mt Simon Hub CCS Pipeline (IA),Transport,,,,,,,,United States,Unknown,,
+Multi-user Burrup CCUS hub and network (Karratha CCS Project),T&S,,,,,,,,Australia,Unknown,,
+Mustang Station Carbon Capture (TX),Full chain,,,,,,,,United States,Unknown,,2025.0
+Nagoya port cluster (capture sources under evaluation),T&S,,,,,,,,Japan-Indonesia,Unknown,,
+Nairyah1 and Nairyah 2 plants,Capture,,,,,,,,Saudi Arabia,Unknown,,
+Nanhai petrochemical plant-Capture for Daya bay CCS (Guangdong),Capture,,,,,,,,People's Republic of China,Unknown,,
+Navigator Terminal train,Transport,,,,,,,,United Kingdom,Unknown,,
+Neau Lime plant,Capture,,,,,,,,France,Unknown,,2030.0
+Net Power Odessa gas plant (TX),Capture,,,,,,,,United States,Unknown,,2026.0
+Net Zero Teesside Power,Capture,,,,,,,,United Kingdom,Unknown,,2027.0
+Net-zero Hydrogen Energy Complex (ALB),Capture,,,,,,,,Canada,Unknown,,2024.0
+NextDecade Rio Grande LNG (TX),Capture,,,,,,,,United States,Unknown,,2025.0
+Nihon Shipyard Mistubishi Shipbuilding JV LCO2 carrier,Transport,,,,,,,,Japan,Unknown,,2027.0
+NL CCS Direct Injection (Noordkaap),T&S,,,,,,,,Netherlands,Unknown,,2030.0
+Nordbex Aker feasibility study,Capture,,,,,,,,Sweden,Unknown,,
+Norske Skog Saugbrugs (Borg CO2),Capture,,,,,,,,Norway,Unknown,,2035.0
+North Dakota CarbonSAFE (ND),Storage,,,,,,,,United States,Unknown,,
+North Drumheller Hub (ALB),Storage,,,,,,,,Canada,Unknown,,
+North East Alliance blue ammonia Yakutia Phase 1,Full chain,,,,,,,,Russia,Unknown,,2026.0
+North East Alliance blue ammonia Yakutia Phase 2,Full chain,,,,,,,,Russia,Unknown,,2030.0
+North Lincolnshire NLGEP,Capture,,,,,,,,United Kingdom,Unknown,,
+North Sea CO2 corridor,Transport,,,,,,,,Belgium-Germany,Unknown,,2030.0
+Northern Endurance Partnership phase 1,T&S,,,,,,,,United Kingdom,Unknown,,2027.0
+Northern Endurance Partnership phase 2,T&S,,,,,,,,United Kingdom,Unknown,,
+Northern Endurance Partnership phase 3,T&S,,,,,,,,United Kingdom,Unknown,,
+Northern Gulf of Thailand CCS Exploration project,Storage,,,,,,,,Thailand,Unknown,,
+Northern Lights Phase 1,T&S,,,,,,,,Norway,Unknown,,2024.0
+Northern Lights Phase 2,T&S,,,,,,,,Norway,Unknown,,2026.0
+Northern Plains Nitrogen Blue ammonia (ND),Capture,,,,,,,,United States,Unknown,,
+Northern to Western Kyushu Offshore CCS - Eneos refinery,Full chain,,,,,,,,Japan,Unknown,,2030.0
+Northern to Western Kyushu Offshore CCS - J-Power power plant,Full chain,,,,,,,,Japan,Unknown,,2030.0
+Northern to Western Kyushu Offshore CCS (capture sources under evaluation),T&S,,,,,,,,Japan,Unknown,,2030.0
+Norvik Infrastructure CCS East (NICE),Transport,,,,,,,,Sweden,Unknown,,
+Novatek Obskiy Gas Chemical Complex Blue ammonia,Full chain,,,,,,,,Russia,Unknown,,2027.0
+Nucor Covent plant (LA),Capture,,,,,,,,United States,Unknown,,2026.0
+Nutrien Redwater Fertilizer (ALB) phase 1,Capture,,,,,,,,Canada,Unknown,,2020.0
+Nutrien Redwater Fertilizer (ALB) phase 2,Capture,,,,,,,,Canada,Unknown,,
+NWR Sturgeon Refinery (ALB),Capture,,,,,,,,Canada,Unknown,,2020.0
+OCAP,Transport,,,,,,,,Netherlands,Unknown,,2005.0
+Oceania CCS (capture sources under evaluation),T&S,,,,,,,,Japan-unknown,Unknown,,
+OCI Fertilizer plant phase 1 (IA),Capture,,,,,,,,United States,Unknown,,2025.0
+OCI Fertilizer plant phase 2 (IA),Capture,,,,,,,,United States,Unknown,,
+Offshore Malay CCS (capture sources under evaluation),T&S,,,,,,,,Japan-Malaysia,Unknown,,2030.0
+Olso Celsio,Capture,,,,,,,,Norway,Unknown,,2025.0
+OLYMPUS Holcim Milaki,Capture,,,,,,,,Greece,Unknown,,2028.0
+Omifco ammonia capture,Capture,,,,,,,,Oman,Unknown,,
+One Earth Energy ethanol CCS (IL),Capture,,,,,,,,United States,Unknown,,2025.0
+Opal Carbon Hub (ALB),Storage,,,,,,,,Canada,Unknown,,
+Open Access Wabamun Carbon Hub (ALB),Storage,,,,,,,,Canada,Unknown,,
+Orchard (TX),Storage,,,,,,,,United States,Unknown,,
+Origins project (ALB),T&S,,,,,,,,Canada,Unknown,,
+Orion (AL),Storage,,,,,,,,United States,Unknown,,2026.0
+Orion CCS Project Phase 1,Storage,,,,,,,,United Kingdom,Unknown,,2031.0
+Orion CCS Project Phase 2,Storage,,,,,,,,United Kingdom,Unknown,,
+Orlen Lietuva,Capture,,,,,,,,Lithuania,Unknown,,2030.0
+Osage CCS 1 (OK),Storage,,,,,,,,United States,Unknown,,
+Oxy DAC potential expansion scenario global 2030,Full chain,,,,,,,,Unknown,Unknown,,2030.0
+Oxy DAC potential expansion scenario US 2030,Full chain,,,,,,,,United States,Unknown,,2030.0
+Oxy/ADNOC UAE DAC,Capture,,,,,,,,United Arab Emirates,Unknown,,
+Pannonia Bio refinery,Full chain,,,,,,,,Hungary,Unknown,,2026.0
+Papua LNG CCS,Full chain,,,,,,,,Papua New Guinea,Unknown,,2027.0
+Parc Adfer CCS ,Capture,,,,,,,,United Kingdom,Unknown,,
+Pathways alliance (ALB) (14 facilities),Capture,,,,,,,,Canada,Unknown,,2030.0
+Pathways Alliance (T&S) (ALB),T&S,,,,,,,,Canada,Unknown,,2030.0
+PCS Nitrogen Geismar Ammonia plant (LA),Capture,,,,,,,,United States,Unknown,,2027.0
+PCS Nitrogen-Geismar plant (LA),Full chain,,,,,,,,United States,Unknown,,2013.0
+Peak cluster transport,Transport,,,,,,,,United Kingdom,Unknown,,2030.0
+Pecos County Ultra Clean Fuels Refining (TX),Capture,,,,,,,,United States,Unknown,,
+Pegasus (LA),Storage,,,,,,,,United States,Unknown,,2027.0
+Pelican Rindge Tract CCS Project (CA),Full Chain,,,,,,,,United States,Unknown,,
+Pelican sequestration hub (Livingston Parish) (LA),Storage,,,,,,,,United States,Unknown,,2025.0
+Pembina low carbon complex,Capture,,,,,,,,Canada,Unknown,,2027.0
+Pembroke Net Zero Centre (PNZC),Capture,,,,,,,,United Kingdom,Unknown,,2040.0
+Permian Regional Carbon Sequestration Hub (TX),T&S,,,,,,,,United States,Unknown,,
+Peterhead Carbon Capture Power Station,Capture,,,,,,,,United Kingdom,Unknown,,2030.0
+Petra Nova Carbon Capture (TX),Full chain,,,,,,,,United States,Unknown,,2023.0
+Petrobras Santos Basin pre-salt oilfield CCS,Full chain,,,,,,,,Brazil,Unknown,,2013.0
+Petronas Kasawari gas field CCS project (Kasawari Phase 2 project),Full chain,,,,,,,,Malaysia,Unknown,,2025.0
+Phillips 66 Humber refinery,Capture,,,,,,,,United Kingdom,Unknown,,2028.0
+Phoenix project (TX),Storage,,,,,,,,United States,Unknown,,
+Pieridae Caroline Carbon Capture Power Complex Phase 1 (ALB),Full chain,,,,,,,,Canada,Unknown,,
+Pieridae Caroline Carbon Capture Power Complex Phase 2 (ALB),Full chain,,,,,,,,Canada,Unknown,,
+Pincher Creek Carbon Sequestration Hub (ALB),Storage,,,,,,,,Canada,Unknown,,
+Pine Lake Corn Processors Steamboat Rock biorefinery (IA),Capture,,,,,,,,United States,Unknown,,2024.0
+Pineywoods CCS hub (TX),Storage,,,,,,,,United States,Unknown,,
+Plant Daniel Carbon Capture (MS) ,Capture,,,,,,,,United States,Unknown,,2025.0
+Plock plant,Capture,,,,,,,,Poland,Unknown,,2027.0
+Plymouth Energy Merrill biorefinery (IA),Capture,,,,,,,,United States,Unknown,,2024.0
+"POET 17 bioprocessing plants (IA, NE, SD)",Capture,,,,,,,,United States,Unknown,,2025.0
+Polaris offshore storage facility,Storage,,,,,,,,Norway,Unknown,,2028.0
+Polk county hub (TX),Storage,,,,,,,,United States,Unknown,,
+Polk Power station NGCC/Polk carbon storage complex (FL),Full chain,,,,,,,,United States,Unknown,,
+Port of Aalborg terminal and pipeline to Fyrkat (Norne carbon storage hub),Transport,,,,,,,,Denmark,Unknown,,2026.0
+Port of Corpus Christi-Mississippi pipeline (TX),Transport,,,,,,,,United States,Unknown,,
+Port of Kalundborg terminal and pipeline to Trelleborg phase 1 (Norne carbon storage hub),Transport,,,,,,,,Denmark,Unknown,,2026.0
+Port of Kalundborg terminal and pipeline to Trelleborg phase 2 (Norne carbon storage hub),Transport,,,,,,,,Denmark,Unknown,,2030.0
+Porthos offshore transport and storage,T&S,,,,,,,,Netherlands,Unknown,,2026.0
+Porthos onshore transport,Transport,,,,,,,,Netherlands,Unknown,,2026.0
+Poseidon CO2 storage,Storage,,,,,,,,Norway,Unknown,,
+Prairie State Generating Station Carbon Capture (IL),Capture,,,,,,,,United States,Unknown,,2025.0
+Prax Lindsey Oil Refinery Phase 1,Capture,,,,,,,,United Kingdom,Unknown,,2027.0
+Prax Lindsey Oil Refinery Phase 2,Capture,,,,,,,,United Kingdom,Unknown,,2029.0
+Preem CCS at Lysekil refinery,Capture,,,,,,,,Sweden,Unknown,,2025.0
+Prinos CCS phase 1,T&S,,,,,,,,Greece,Unknown,,2025.0
+Prinos CCS phase 2,T&S,,,,,,,,Greece,Unknown,,2027.0
+Prinos sigma plant,Capture,,,,,,,,Greece,Unknown,,2025.0
+Project Air Perstorp Oxo capture,CCU,,,,,,,,Sweden,Unknown,,2027.0
+Project Bifrost Phase 1,T&S,,,,,,,,Denmark,Unknown,,2030.0
+Project Bison (WY) Phase 1,Capture,,,,,,,,United States,Unknown,,2024.0
+Project Bison (WY) Phase 2,Capture,,,,,,,,United States,Unknown,,2026.0
+Project Bison (WY) Phase 3,Capture,,,,,,,,United States,Unknown,,2028.0
+Project Bison (WY) Phase 4,Capture,,,,,,,,United States,Unknown,,2028.0
+Project Blue (AR),Full chain,,,,,,,,United States,Unknown,,2025.0
+Project Cavendish Phase 1,Capture,,,,,,,,United Kingdom,Unknown,,2026.0
+Project Cavendish Phase 2,Capture,,,,,,,,United Kingdom,Unknown,,2026.0
+Project Clear Horizon - natural gas fired power plants (ALB),Capture,,,,,,,,Canada,Unknown,,
+Project Clear Horizon (ALB),T&S,,,,,,,,Canada,Unknown,,
+"Project Crossroads (IN, IL, MI)",T&S,,,,,,,,United States,Unknown,,
+Project Greensand phase 1,T&S,,,,,,,,Denmark,Unknown,,2026.0
+Project Greensand phase 2,T&S,,,,,,,,Denmark,Unknown,,2030.0
+Project Hajar,Full chain,,,,,,,,Oman,Unknown,,2024.0
+Project Hummingbird,Full chain,,,,,,,,Kenya,Unknown,,2025.0
+Project Interseqt - Hereford Ethanol Plant (TX),Full chain,,,,,,,,United States,Unknown,,2024.0
+Project Interseqt - Plainview Ethanol Plant (TX),Full chain,,,,,,,,United States,Unknown,,2024.0
+Project Lochridge (Gulf of Mexico CCS Partnership Hub) (LA),T&S,,,,,,,,United States,Unknown,,2030.0
+Project OASIS Shelby County (AL),Storage,,,,,,,,United States,Unknown,,
+Project Phoenix ammonia (WY),Full chain,,,,,,,,United States,Unknown,,
+Project Pouakai Hydrogen Production with CCS,Full chain,,,,,,,,New Zealand,Unknown,,2024.0
+Project Ruby (Rodby) phase 1,Storage,,,,,,,,Denmark,Unknown,,2030.0
+Project Ruby (Rodby) phase 2,Storage,,,,,,,,Denmark,Unknown,,
+Project Tellus - CS020 (Area 1),Storage,,,,,,,,United Kingdom,Unknown,,2030.0
+Project Tellus - CS021 (Area 5),Storage,,,,,,,,United Kingdom,Unknown,,2033.0
+Project Tellus - CS022 (Area 7),Storage,,,,,,,,United Kingdom,Unknown,,2033.0
+Project Tundra at Milton R Young Station (ND),Capture,,,,,,,,United States,Unknown,,2028.0
+Project WyoTCH pipeline (WY),Transport,,,,,,,,United States,Unknown,,
+Protos CO2 network phase 1,Transport,,,,,,,,United Kingdom,Unknown,,
+Protos CO2 network phase 2,Transport,,,,,,,,United Kingdom,Unknown,,
+PYCASSO hub phase 1 - eastern and western pipeline,T&S,,,,,,,,France,Unknown,,2030.0
+PYCASSO hub phase 2 - northern and cross-border pipeline,T&S,,,,,,,,France,Unknown,,2035.0
+Qatar LNG,Full chain,,,,,,,,Qatar,Unknown,,2019.0
+Qatar North Field East Project CCS,Full chain,,,,,,,,Qatar,Unknown,,2025.0
+Quad County Corn Processors Galva biorefinery (IA),Capture,,,,,,,,United States,Unknown,,2024.0
+Quest (ALB),Full chain,,,,,,,,Canada,Unknown,,2015.0
+Ram River Carbon Sequestration Hub (ALB),Storage,,,,,,,,Canada,Unknown,,
+Ramba CCUS/EOR,Full chain,,,,,,,,Indonesia,Unknown,,2032.0
+Ravenna CCS phase 2,T&S,,,,,,,,Italy,Unknown,,2027.0
+Red Hills CO2 storage hub (MS),Storage,,,,,,,,United States,Unknown,,
+Red Trail Energy BECCS Project (ND),Full chain,,,,,,,,United States,Unknown,,2022.0
+Redcar Energy Centre EfW,Capture,,,,,,,,United Kingdom,Unknown,,2025.0
+Redfield Energy biorefinery (ND),Capture,,,,,,,,United States,Unknown,,2024.0
+Removr Carbfix plant phase 1,Full chain,,,,,,,,Iceland,Unknown,,2025.0
+Removr Carbfix plant phase 2,Full chain,,,,,,,,Iceland,Unknown,,2027.0
+Returkraft Kristiansand,Capture,,,,,,,,Norway,Unknown,,2030.0
+Ringneck Energy & Feed Onida biorefinery (SD),Capture,,,,,,,,United States,Unknown,,2024.0
+River Parish Sequestration (LA),T&S,,,,,,,,United States,Unknown,,
+Rockpoint and Inter Pipeline Carbon Sequestration Hub,T&S,,,,,,,,Canada,Unknown,,
+Rocky Mountain Carbon Vault (ALB),Storage,,,,,,,,Canada,Unknown,,2027.0
+Rohm chemical plant (x2),CCU,,,,,,,,Germany,Unknown,,
+Rolling Hills Carbon Sequestration Hub (ALB),Storage,,,,,,,,Canada,Unknown,,2026.0
+Roughrider Carbon Storage Hub (ND),Storage,,,,,,,,United States,Unknown,,
+Rumah1 and Rumah 2 plants,Capture,,,,,,,,Saudi Arabia,Unknown,,
+Russel CO2 storage complex (KS),Full Chain,,,,,,,,United States,Unknown,,
+RWE Amer power plant,Capture,,,,,,,,Netherlands,Unknown,,2032.0
+RWE CCGT Stallingborough,Capture,,,,,,,,United Kingdom,Unknown,,
+RWE CCGT Stallingborough,Capture,,,,,,,,United Kingdom,Unknown,,
+RWE CCGT Staythorpe (+ another new build?),Capture,,,,,,,,United Kingdom,Unknown,,
+RWE Eemshaven power plant,Capture,,,,,,,,Netherlands,Unknown,,2030.0
+Sailboat Green Methanol plant Shengong petrochemical (Jiangsu),CCU,,,,,,,,People's Republic of China,Unknown,,
+Saint-Gobain glass,Capture,,,,,,,,United Kingdom,Unknown,,
+Saint-Pierre-la-Cour cement plant,Capture,,,,,,,,France,Unknown,,2030.0
+San Joaquin Renewables BCCS (CA),Storage,,,,,,,,United States,Unknown,,
+San Juan Basin CarbonSAFE (NM),Storage,,,,,,,,United States,Unknown,,2025.0
+Santos Bonaparte Basin storage,Storage,,,,,,,,Australia,Unknown,,
+Santos Carnavon Basin storage (Reindeer CCS),Storage,,,,,,,,Australia,Unknown,,2028.0
+Seal Sands TGEPL,Capture,,,,,,,,United Kingdom,Unknown,,
+SEDAC hub (AL) phase 1,Capture,,,,,,,,United States,Unknown,,
+SEDAC hub (AL) phase 2,Capture,,,,,,,,United States,Unknown,,
+Setouchi / Shikoku CO2 Hub Concept (capture sources under evaluation),Transport,,,,,,,,Japan-Australia,Unknown,,
+Shah gas plant (Abu Dhabi CCS Phase 2),Full chain,,,,,,,,United Arab Emirates,Unknown,,2030.0
+Shand,Capture,,,,,,,,Canada,Unknown,,
+Sharjah Hub ,T&S,,,,,,,,United Arab Emirates,Unknown,,
+Shell Deer Park Chemical complex (TX),Capture,,,,,,,,United States,Unknown,,
+Shell Netherlands Refineries biodiesel,Capture,,,,,,,,Netherlands,Unknown,,2026.0
+Shell Netherlands Refineries heavy residue gasification CCS,Capture,,,,,,,,Netherlands,Unknown,,2026.0
+Shell Netherlands Refineries heavy residue gasification CCU,CCU,,,,,,,,Netherlands,Unknown,,1997.0
+Shell Uniper Humber Hub Blue North Killingholme,Capture,,,,,,,,United Kingdom,Unknown,,2027.0
+Shepard Energy Centre (SEC) (ALB),Capture,,,,,,,,Canada,Unknown,,
+Sinopec Nanjing Chemical Industries CCUS Cooperation Project (Jiangsu),Full chain,,,,,,,,People's Republic of China,Unknown,,2021.0
+Sinopec Qilu Petrochemical Shengli (Shandong),Full chain,,,,,,,,People's Republic of China,Unknown,,2022.0
+Sinopec Shengli Power Plant CCS (Shandong),Full chain,,,,,,,,People's Republic of China,Unknown,,2030.0
+Siouxland Energy Cooperative Sioux Center biorefinery (IA),Capture,,,,,,,,United States,Unknown,,2024.0
+Sizewell C nuclear-powered DAC Full-scale,Capture,,,,,,,,United Kingdom,Unknown,,2030.0
+SK E&S Honeywell gas power plant,Capture,,,,,,,,South Korea,Unknown,,
+Sleipner,Full chain,,,,,,,,Norway,Unknown,,1996.0
+Snohvit CO2 capture and storage,Full chain,,,,,,,,Norway,Unknown,,2008.0
+Soderenergi Igelsta plant,Capture,,,,,,,,Sweden,Unknown,,2030.0
+South East Australia carbon capture and storage (SEA CCS) hub,T&S,,,,,,,,Australia,Unknown,,2025.0
+South Texas DAC Hub (TX),Full chain,,,,,,,,United States,Unknown,,
+South West Blue Hydrogen,Capture,,,,,,,,Australia,Unknown,,
+South West Hub Project,Storage,,,,,,,,Australia,Unknown,,
+Southeast Saskatchewan CCUS Hub (Belle Plaine and Weyburn) (SK),T&S,,,,,,,,Canada,Unknown,,2025.0
+Southeastern Illinois Basin CarbonSAFE (KT),Storage,,,,,,,,United States,Unknown,,
+Stade facility Green Methanol,CCU,,,,,,,,Germany,Unknown,,
+Stakraft Varme Trondheim,Capture,,,,,,,,Norway,Unknown,,2030.0
+Stenlille project (CO2RYLUS),Storage,,,,,,,,Denmark,Unknown,,2026.0
+Stockholm Exergi Värtan CHP CCS (BECCS@STHLM),Capture,,,,,,,,Sweden,Unknown,,2026.0
+STRATOS (Ector County) (TX),Full chain,,,,,,,,United States,Unknown,,2025.0
+Structure A&E,Full chain,,,,,,,,Lybia,Unknown,,2027.0
+Stryde CO2 storage assessment Brazil,Storage,,,,,,,,Brazil,Unknown,,
+Suek Blue Ammonia Borodinsky,Full chain,,,,,,,,Russia,Unknown,,2027.0
+Suez Tees Valley / Haverton Hill Waste to Energy CCS,Capture,,,,,,,,United Kingdom,Unknown,,2027.0
+Sukowati CO2-EOR (Jambaran Tiung Biru gas processing),Full chain,,,,,,,,Indonesia,Unknown,,2025.0
+Suncor Edmonton Refinery - Fluid Catalytic Cracker Capture (ALB),Capture,,,,,,,,Canada,Unknown,,
+Sunda Asri Basin CCUS hub,Storage,,,,,,,,Indonesia,Unknown,,2030.0
+Sundsvall Korsta plant CCS,Capture,,,,,,,,Sweden,Unknown,,2026.0
+Susitna Power Plant (AK),Capture,,,,,,,,United States,Unknown,,
+Sustainable Fuels Group - CIP blue ammonia plant,Capture,,,,,,,,United States,Unknown,,2027.0
+Sutter Decarbonization Project (CA),T&S,,,,,,,,United States,Unknown,,2028.0
+Svante capture Linde SMR plant (TX) ,Capture,,,,,,,,United States,Unknown,,2026.0
+Sweetwater Carbon Storage Hub (WY),Storage,,,,,,,,United States,Unknown,,
+TA’ZIZ blue ammonia,Full chain,,,,,,,,United Arab Emirates,Unknown,,2025.0
+Taiwan Cement Hoping oxyfuel pilot,Capture,,,,,,,,Taiwan,Unknown,,2026.0
+Taiwan Cement Hoping/Heping plant,CCU,,,,,,,,Taiwan,Unknown,,2030.0
+Tambak Lorok Gas-Fired Power Plant,Full Chain,,,,,,,,Indonesia,Unknown,,
+Tampa Regional Intermodal Carbon HUB (T-RICH) (FL),Transport,,,,,,,,United States,Unknown,,
+Tangguh CCUS hub,Storage,,,,,,,,Indonesia,Unknown,,
+Tangguh LNG EGR,Full chain,,,,,,,,Indonesia,Unknown,,2027.0
+Tarastenjärvi power (Tampere),CCU,,,,,,,,Finland,Unknown,,2026.0
+Tees Valley Energy Recovery Facility (TVERF),Capture,,,,,,,,United Kingdom,Unknown,,2026.0
+Terrell Natural Gas Processing Plant (former Val Verde) (TX),Full chain,,,,,,,,United States,Unknown,,1972.0
+Tharaldson Ethanol Casselton biorefinery (ND),Capture,,,,,,,,United States,Unknown,,2024.0
+The Bluestreak CO2 Joint Venture,T&S,,,,,,,,United Kingdom,Unknown,,
+The ZEROS project Chambers & Liberty County (Jefferson) (TX),Capture,,,,,,,,United States,Unknown,,2024.0
+Thorning storage,Storage,,,,,,,,Denmark,Unknown,,
+Timberland Sequestration project (AL),Full chain,,,,,,,,United States,Unknown,,
+Tohoku Region West Coast CCS,T&S,,,,,,,,Japan,Unknown,,2030.0
+Tohoku Region West Coast CCS - Nippon Steel,Capture,,,,,,,,Japan,Unknown,,2030.0
+Tohoku Region West Coast CCS - Taiheiyo Cement ,Capture,,,,,,,,Japan,Unknown,,2030.0
+Tomakomai area CCS,T&S,,,,,,,,Japan,Unknown,,2030.0
+Tomakomai area CCS - Hokkaido Electric Tomatouatsuma power station,Capture,,,,,,,,Japan,Unknown,,2030.0
+Tomakomai area CCS - Idemitsu Kosan Hokkaido Refinery,Capture,,,,,,,,Japan,Unknown,,2030.0
+Tourmaline Clearwater CCUS (ALB),Storage,,,,,,,,Canada,Unknown,,
+Tracy DAC facility,CCU,,,,,,,,United States,Unknown,,2023.0
+Trailblazer CO2 pipeline,Transport,,,,,,,,United States,Unknown,,
+"Tri-state project (WV, OH, PA)",Storage,,,,,,,,United States,Unknown,,
+Trudvang storage project (EXL007),Storage,,,,,,,,Norway,Unknown,,2029.0
+Tulare County Carbon Storage Project (CA),Storage,,,,,,,,United States,Unknown,,
+Tumbler Ridge blue methanol project (BC),Capture,,,,,,,,Canada,Unknown,,2028.0
+Tumbler Ridge e-methanol project (BC),CCU,,,,,,,,Canada,Unknown,,2028.0
+Twence Hengelo facility,CCU,,,,,,,,Netherlands,Unknown,,2024.0
+UK Poseidon CCS project phase 1,Storage,,,,,,,,United Kingdom,Unknown,,2029.0
+UK Poseidon CCS project phase 2,Storage,,,,,,,,United Kingdom,Unknown,,2030.0
+UK Poseidon CCS project phase 2,Storage,,,,,,,,United Kingdom,Unknown,,2040.0
+Umea Dava plant CCS,Capture,,,,,,,,Sweden,Unknown,,2026.0
+Unita Basin Carbon SAFE (UT),Storage,,,,,,,,United States,Unknown,,
+Uthmaniyah CO2-EOR demonstration,Full chain,,,,,,,,Saudi Arabia,Unknown,,2015.0
+Valero Port Arthur Refinery (TX),Full chain,,,,,,,,United States,Unknown,,2013.0
+Vattenfall Jordbro CHP plant,Capture,,,,,,,,Sweden,Unknown,,
+Växjö Energi CHP CCS Sandviksverket,Capture,,,,,,,,Sweden,Unknown,,2027.0
+Velocys Bayou Fuels (MS),Capture,,,,,,,,United States,Unknown,,2026.0
+Venture Global CCS Cameron (LA),T&S,,,,,,,,United States,Unknown,,
+Venture Global LNG Calcasieu Pass CCS (LA),Capture,,,,,,,,United States,Unknown,,
+Venture Global LNG CP2 liquefaction facility CCS (LA),Capture,,,,,,,,United States,Unknown,,
+Venture Global LNG Plaquemines CCS (LA),Capture,,,,,,,,United States,Unknown,,
+Veolia EfW to fuels,CCU,,,,,,,,United Kingdom,Unknown,,2030.0
+Vestforbrænding's Ejby incineration plant,Capture,,,,,,,,Denmark,Unknown,,2026.0
+Vicksburg Containerboard Mill (MS),Capture,,,,,,,,United States,Unknown,,
+Viking CCS Phase 1,T&S,,,,,,,,United Kingdom,Unknown,,2027.0
+Viking CCS Phase 2,T&S,,,,,,,,United Kingdom,Unknown,,2030.0
+Viking CCS Phase 3,T&S,,,,,,,,United Kingdom,Unknown,,2035.0
+Virginia CarbonSafe storage (VA),Storage,,,,,,,,United States,Unknown,,
+Virgo (LA),Storage,,,,,,,,United States,Unknown,,2026.0
+Viridor Runcorn CCS project,Capture,,,,,,,,United Kingdom,Unknown,,2025.0
+VISION 2025,Capture,,,,,,,,Greece,Unknown,,2030.0
+Voestalpine hot briquetted iron plant Portland (TX),Capture,,,,,,,,United States,Unknown,,
+VPI Immingham CHP plant CCS,Capture,,,,,,,,United Kingdom,Unknown,,2027.0
+Wabash Valley Resources/Wabash CarbonSAFE (IN),Full chain,,,,,,,,United States,Unknown,,2024.0
+WAH2 Blue  Ammonia Project - phase 1,Capture,,,,,,,,Australia,Unknown,,2028.0
+WAH2 Blue  Ammonia Project - phase 2,Capture,,,,,,,,Australia,Unknown,,
+Waste to energy CCU to TES Wilhemshaven (unknown facility),CCU,,,,,,,,Germany,Unknown,,
+Waste to hydrogen Boson Energy (BEH2X LAVNT),CCU,,,,,,,,Latvia,Unknown,,2024.0
+Waste-to-energy Aker CC (unknown facility),Capture,,,,,,,,France,Unknown,,
+West bay storage Galveston (TX),Storage,,,,,,,,United States,Unknown,,
+West Java sea rig-to-CCS JSA,Storage,,,,,,,,Indonesia,Unknown,,
+Weyburn-Midale storage,Storage,,,,,,,,Canada,Unknown,,2020.0
+WH2V therminal (Wilhelshaven green energy hub phase 1),Transport,,,,,,,,"Belgium, Germany, Netherlands, Switzerland, USA",Unknown,,2029.0
+Whiting Refinery,Capture,,,,,,,,United States,Unknown,,
+Wilhelmshaven Energy Hub BlueHyNow,Capture,,,,,,,,Germany,Unknown,,2026.0
+William Echo Springs CarbonSAFE (WY),Storage,,,,,,,,United States,Unknown,,
+Wintershall Dea Luna storage,Storage,,,,,,,,Norway,Unknown,,2030.0
+Wintershall Dea-Equinor Gernany-Norway pipeline phase 1,Transport,,,,,,,,Germany-Norway,Unknown,,2032.0
+Wintershall Dea-Equinor Gernany-Norway pipeline phase 2,Transport,,,,,,,,Germany-Norway,Unknown,,2037.0
+Woodside Browse CCS Assessment,Full chain,,,,,,,,Australia,Unknown,,
+Yamal LNG,Full chain,,,,,,,,Russia,Unknown,,
+Yanchang integrated CCUS Yulin Coal Chemical (Shaanxi) phase 1,Full chain,,,,,,,,People's Republic of China,Unknown,,2022.0
+Yanchang integrated CCUS Yulin Coal Chemical (Shaanxi) phase 2,Full chain,,,,,,,,People's Republic of China,Unknown,,
+Yanchang integrated CCUS Yulin Coal Chemical (Shaanxi) phase 3,Full chain,,,,,,,,People's Republic of China,Unknown,,
+Yara Pilbara ammonia,Capture,,,,,,,,Australia,Unknown,,
+Yara Sluiskil fertiliser,Capture,,,,,,,,Netherlands,Unknown,,2026.0
+Yara-BASF Gulf Coast,Capture,,,,,,,,United States,Unknown,,2028.0
+ZerCal250,Capture,,,,,,,,United Kingdom,Unknown,,
+Zutica and Ivanic grad EOR extension,Storage,,,,,,,,Croatia,Unknown,,
