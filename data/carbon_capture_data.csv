@@ -1,0 +1,11 @@
+Technology,CO2_Captured (tons/year),Capture_Efficiency (%),Energy_Used (kWh/ton),Cost_Per_Ton (USD)
+Climeworks Orca (DAC),4000,90.0,2000,600
+Quest (CCS),1000000,75.2,350,80
+Petra Nova (CCS),1400000,90.0,250,60
+BECCS – Drax,800000,85.0,450,100
+NetPower Allam Cycle,500000,95.0,200,85
+Carbfix (Mineralization),12000,95.0,1200,150
+Global Thermostat (DAC),10000,85.0,2500,500
+Chevron Gorgon CCS,4000000,80.0,300,55
+Carbon Clean India,60000,92.0,380,40
+Occidental DAC Plant,1000000,88.0,2200,400
